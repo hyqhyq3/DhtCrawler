@@ -1,7 +1,7 @@
 package main
 
 import (
-	"DhtCrawler"
+	"github.com/hyqhyq3/DhtCrawler"
 	"fmt"
 	"os"
 	"runtime"
